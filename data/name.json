@@ -1,0 +1,33 @@
+[
+  {
+    "550e8400-e29b-41d4-a716-446655440000": {
+      "id": "1",
+      "name": "Alice Nguyen",
+      "age": 30,
+      "active": true
+    },
+    "6ba7b810-9dad-41d1-80b4-00c04fd430c8": {
+      "id": "2",
+      "name": "Bob Patel",
+      "age": 24,
+      "active": false
+    },
+    "f47ac10b-58cc-4372-a567-0e02b2c3d479": {
+      "id": "3",
+      "name": "Charlie Reed",
+      "age": 36,
+      "active": true
+    }
+  },
+  {
+    "1": "550e8400-e29b-41d4-a716-446655440000",
+    "2": "6ba7b810-9dad-41d1-80b4-00c04fd430c8",
+    "3": "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+  },
+  {
+    "id": "string",
+    "name": "string",
+    "age": "number",
+    "active": "bool"
+  }
+]
